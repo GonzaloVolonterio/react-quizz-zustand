@@ -13,7 +13,7 @@ interface State {
   reset: () => void
 }
 
-const API_URL = import.meta.env.PROD
+const API_URL = process.env.API_URL
 
 export const useQuestionsStore = create<State>()(devtools(persist((set, get) => {
   return {
