@@ -1,4 +1,4 @@
-# React Quiz
+# JavaScript Quiz
 # Desarrollado con TypeScript y Zustand
 
 ## Built With
