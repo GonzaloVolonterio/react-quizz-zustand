@@ -5,6 +5,7 @@
  ```
 React
 React-hooks
+Vite
 TyprScript
 CSS
 Zustand
